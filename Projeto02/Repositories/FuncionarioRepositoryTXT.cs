@@ -15,7 +15,7 @@ namespace Projeto02.Repositories
 
             #region Definindo o nome e local do arquivo
 
-            var path = "c:\\temp\\funcionario.txt";
+            var path = "c:\\temp\\funcionarios.txt";
 
             #endregion
 
